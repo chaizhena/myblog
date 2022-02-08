@@ -4,20 +4,20 @@
 个人博客
 
 #### 软件架构
-软件架构说明
+软件架构说明  springboot + vue +docker
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  启动前端项目
+2.  启动后端 项目
+3.  导入数据库
 
-#### 使用说明
+#### linux安装
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  编写Dockerfile和docker-compose.yml文件，已经放到数据库下面
+2.  添加后端项目jar包
+3.  将前端项目编译后dist里的文件放到liunx服务器nginx中的html下
 
 #### 参与贡献
 
